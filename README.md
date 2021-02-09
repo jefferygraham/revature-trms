@@ -5,7 +5,7 @@ TRMS, or Tuition Reimbursement Management System is a full-stack web application
 
 ## Purpose
 
-This project encompasses the fundamental aspects of building a full-stack React application, using Redux to manage state, using Express for RESTful rouiing and and persisting data with DynamoDB.
+This project encompasses the fundamental aspects of building a full-stack React application, using Redux to manage state, using Express for RESTful routing and and persisting data with DynamoDB.
 
 ## To run it locally:
 
